@@ -1,2 +1,2 @@
 # dropboxSync
- Sorts The Dropbox "Camera Uploads" directory
+ Sorts the Dropbox "Camera Uploads" directory
